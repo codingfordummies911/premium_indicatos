@@ -5,4 +5,4 @@ Premium indicatos
   - Trial: https://in.tradingview.com/script/ZQktrRED-Price-Action-Breakout-Basic-Daily-Trading/
 
 2. Volume Super Trend AI
-   - Trial: https://www.mql5.com/en/market/product/149134
+  - Trial: https://www.mql5.com/en/market/product/149134
